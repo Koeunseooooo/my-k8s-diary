@@ -7,20 +7,16 @@
 
 ## 📁 디렉터리 구성
 
-* `chapter-01-cluster-setup/`\
-  클러스터 구성 실습 (minikube, kind 등)
-* `chapter-02-workloads/`\
-  파드, 디플로이먼트, 서비스 등 실습
-* `chapter-03-networking/`\
-  서비스, 인그레스, DNS 등 네트워크 구성
-* `chapter-04-troubleshooting/`\
-  에러, 삽질, 해결 방법 정리
-* `memo/`\
-  책 보며 정리한 짧은 메모, 참고 링크 등
+* `핸즈온 기록/`\
+  책에 소개된 실습을 직접 따라해보며 느낀 것들과 해결과정 등을 공유합니다
+* `추가 학습 노트/`\
+  핸즈온 기록/의 순서에 맞추어, 실습 중 몰랐던 개념들이나 알고 싶은 부가 이론들을 톺아봅니다
+* `etc/`\
+  참고 링크 등
 
 ***
 
-## ✅ 목표
+## 📍 목표
 
 * [x] 책 내용 따라가며 실습 진행
 * [x] 실습하며 발생한 문제와 해결 과정 기록
@@ -30,10 +26,14 @@
 
 ## 🛠 사용 도구
 
-* Kubernetes (minikube, kind 등)
+* VirtualBox
+* Vagrant
+* Kubernetes
 * Docker
-* kubectl
-* VSCode + 터미널
+* Jenkins
+* Prometheus
+* Grafana
+* Terminal 등
 
 ***
 
