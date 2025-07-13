@@ -14,4 +14,5 @@
 
 ## 추가 학습 노트
 
-* [Page 1](undefined-1/page-1.md)
+* [테스트 환경 구성하기](undefined-1/undefined/README.md)
+  * [Package manager, Binary download](undefined-1/undefined/package-manager-binary-download.md)
